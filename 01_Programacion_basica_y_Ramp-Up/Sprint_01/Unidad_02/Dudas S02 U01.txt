@@ -1,6 +1,14 @@
 
-Diccionarios.
+1. Diccionarios.
 
 Eliminar elemento: 
 el video se dice explicitamente que no hay remove ni pop, solose puede hacer con del.
 La doc aparece el metodo pop. ????
+
+2. Ejercicio 6 en II.2
+
+
+3. Como cargar librerias de Python en mi PC
+
+4. Contenido Funciones de usuario
+error del notebook
