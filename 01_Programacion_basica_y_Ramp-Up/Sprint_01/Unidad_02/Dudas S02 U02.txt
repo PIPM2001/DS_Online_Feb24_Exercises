@@ -1,0 +1,24 @@
+
+1.
+"Dice La OOP no la vamos utilizar en el bootcoamp pero
+ si se usa en el mundo profesional"
+
+Entonces porque no la usamos? 
+Salimos del bootcamp sin saber utilizar el python que se usa profesionalmente?
+
+2. Constructores
+en el video define
+
+class Coche:
+    puertas = 4
+    ruedas = 4
+    def __init__(self, marca_coche, num_puertas):
+        self.marca = marca_coche
+        self.puertas = num_puertas
+
+Aqui definir el atributo por defecto 
+ruedas = 4, no tiene sentido si ya nos va a obligar
+a especificarlo cuando usemor el constructor.
+        
+
+
