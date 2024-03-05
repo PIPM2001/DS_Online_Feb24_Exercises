@@ -1,0 +1,14 @@
+Sprint3
+
+Unidad2
+
+Indexado y slicing
+
+Invertir las filas | Invertir las columnas
+
+Yo lo entiendo al reves de como lo explica Jaime.
+¿Cual es la forma correcta?
+
+Spliting
+porque  split del elemto 3 es con 2
+y el del 5 es con 4 ??

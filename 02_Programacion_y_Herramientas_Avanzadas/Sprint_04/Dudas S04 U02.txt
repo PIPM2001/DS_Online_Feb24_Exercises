@@ -1,0 +1,10 @@
+Sprint4
+
+Unidad2
+
+df_grouped["consumo_kg"].mean()  FUNCIONA
+
+y 
+
+df_grouped["Destino"].mode() NO FUNCIONA??? por que???
+
