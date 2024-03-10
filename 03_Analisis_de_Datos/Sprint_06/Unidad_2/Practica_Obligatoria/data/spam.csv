@@ -1,0 +1,136 @@
+from|to|is_spam|confidence
+"m: stephen.marquard@uct.ac.za
+"|" source@collab.sakaiproject.org
+"|" Innocent
+"|" 0.8475
+"
+"m: louis@media.berkeley.edu
+"|" source@collab.sakaiproject.org
+"|" Innocent
+"|" 0.6178
+"
+"m: zqian@umich.edu
+"|" source@collab.sakaiproject.org
+"|" Innocent
+"|" 0.6961
+"
+"m: rjlowe@iupui.edu
+"|" source@collab.sakaiproject.org
+"|" Innocent
+"|" 0.7565
+"
+"m: zqian@umich.edu
+"|" source@collab.sakaiproject.org
+"|" Innocent
+"|" 0.7626
+"
+"m: rjlowe@iupui.edu
+"|" source@collab.sakaiproject.org
+"|" Innocent
+"|" 0.7556
+"
+"m: cwen@iupui.edu
+"|" source@collab.sakaiproject.org
+"|" Innocent
+"|" 0.7002
+"
+"m: cwen@iupui.edu
+"|" source@collab.sakaiproject.org
+"|" Innocent
+"|" 0.7615
+"
+"m: gsilver@umich.edu
+"|" source@collab.sakaiproject.org
+"|" Innocent
+"|" 0.7601
+"
+"m: gsilver@umich.edu
+"|" source@collab.sakaiproject.org
+"|" Innocent
+"|" 0.7605
+"
+"m: zqian@umich.edu
+"|" source@collab.sakaiproject.org
+"|" Innocent
+"|" 0.6959
+"
+"m: gsilver@umich.edu
+"|" source@collab.sakaiproject.org
+"|" Innocent
+"|" 0.7606
+"
+"m: wagnermr@iupui.edu
+"|" source@collab.sakaiproject.org
+"|" Innocent
+"|" 0.7559
+"
+"m: zqian@umich.edu
+"|" source@collab.sakaiproject.org
+"|" Innocent
+"|" 0.7605
+"
+"m: antranig@caret.cam.ac.uk
+"|" source@collab.sakaiproject.org
+"|" Innocent
+"|" 0.6932
+"
+"m: gopal.ramasammycook@gmail.com
+"|" source@collab.sakaiproject.org
+"|" Innocent
+"|" 0.7558
+"
+"m: david.horwitz@uct.ac.za
+"|" source@collab.sakaiproject.org
+"|" Innocent
+"|" 0.6526
+"
+"m: david.horwitz@uct.ac.za
+"|" source@collab.sakaiproject.org
+"|" Innocent
+"|" 0.6948
+"
+"m: david.horwitz@uct.ac.za
+"|" source@collab.sakaiproject.org
+"|" Innocent
+"|" 0.6528
+"
+"m: david.horwitz@uct.ac.za
+"|" source@collab.sakaiproject.org
+"|" Innocent
+"|" 0.7002
+"
+"m: stephen.marquard@uct.ac.za
+"|" source@collab.sakaiproject.org
+"|" Innocent
+"|" 0.7554
+"
+"m: louis@media.berkeley.edu
+"|" source@collab.sakaiproject.org
+"|" Innocent
+"|" 0.6956
+"
+"m: louis@media.berkeley.edu
+"|" source@collab.sakaiproject.org
+"|" Innocent
+"|" 0.6959
+"
+"m: ray@media.berkeley.edu
+"|" source@collab.sakaiproject.org
+"|" Innocent
+"|" 0.7556
+"
+"m: cwen@iupui.edu
+"|" source@collab.sakaiproject.org
+"|" Innocent
+"|" 0.9846
+"
+"m: cwen@iupui.edu
+"|" source@collab.sakaiproject.org
+"|" Innocent
+"|" 0.8509
+"
+"m: cwen@iupui.edu
+"|" source@collab.sakaiproject.org
+"|" Innocent
+"|" 0.9907
+"
